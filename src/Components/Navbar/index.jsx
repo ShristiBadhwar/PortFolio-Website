@@ -20,7 +20,7 @@ function Navbar() {
           <span>03.</span>Contact
         </a>
         <a
-          href="https://drive.google.com/file/d/1N3xj5oGvzGpCrbTsFkm_zpEtzapeYkpk/view?usp=sharing"
+          href="https://drive.google.com/file/d/1KFPjGaaSDJ7awuJRlEBW0kkUGPHaviVQ/view?usp=sharing"
           target="_blank"
           rel="noreferrer"
         >

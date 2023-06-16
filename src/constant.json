@@ -4,9 +4,17 @@
     {
       "title": "About You",
       "image": "./images/aboutyou.jpg",
-      "desc": " A flutter application that tells what data is collected by Google, Facebook, Instagram and Twitter. Also includes features like locate your mobile, live demo of how website track us.",
+      "desc": "A flutter application that tells what data is collected by Google, Facebook, Instagram and Twitter. Also includes features like locate your mobile, live demo of how website track us.",
       "skills": ["Flutter", "Dart"],
-      "github": " https://github.com/ShristiBadhwar/aboutYou"
+      "github": "https://github.com/ShristiBadhwar/aboutYou"
+      
+    },
+    {
+      "title": "FinTracker",
+      "image": "./images/finance.jpg",
+      "desc": "FinTracker is an expense tracker application built with Flutter to help you effortlessly manage your finances. It has a user-friendly interface to enter and categorize your expenses, and helps you gain insights of your spending habits thereby helping you stay within your budget.",
+      "skills": ["Flutter", "Dart"],
+      "github": "https://github.com/ShristiBadhwar/Finance-Tracker"
       
     },
     {
@@ -14,7 +22,15 @@
       "image": "./images/sudoku.jpg",
       "desc": "A flutter application to play sudoku game.",
       "skills": ["Flutter", "Dart"],
-      "github": " https://github.com/ShristiBadhwar/SudokuMaster"
+      "github": "https://github.com/ShristiBadhwar/SudokuMaster"
+      
+    },
+    {
+      "title": "BMI Calculator",
+      "image": "./images/bmi.jpg",
+      "desc": "A flutter application with beautiful UI that calculates BMI based on weight and height input.",
+      "skills": ["Flutter", "Dart"],
+      "github": "https://github.com/ShristiBadhwar/BMI-Calculator"
       
     },
     {
