@@ -3,7 +3,7 @@
   "projects": [
     {
       "title": "About You",
-      "image": "./images/aboutyou.avif",
+      "image": "./images/aboutyou.jpg",
       "desc": " A flutter application that tells what data is collected by Google, Facebook, Instagram and Twitter. Also includes features like locate your mobile, live demo of how website track us.",
       "skills": ["Flutter", "Dart"],
       "github": " https://github.com/ShristiBadhwar/aboutYou"
@@ -11,7 +11,7 @@
     },
     {
       "title": "Sudoku Master",
-      "image": "./images/sudoku.avif",
+      "image": "./images/sudoku.jpg",
       "desc": "A flutter application to play sudoku game.",
       "skills": ["Flutter", "Dart"],
       "github": " https://github.com/ShristiBadhwar/SudokuMaster"
@@ -19,7 +19,7 @@
     },
     {
       "title": " Virtual Keyboard ",
-      "image": "./images/keyboard.avif",
+      "image": "./images/keyboard.jpg",
       "desc": "A keyboard that works by detecting hand movement and image processing, acts as an alternative for the traditional keyboard",
       "skills": ["Python", "OpenCV"]
       
@@ -27,3 +27,4 @@
     }
   ]
 }
+
